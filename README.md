@@ -1,4 +1,8 @@
-### Hi there 👋
+### julian Fernando de Almeida Cambraia 
+
+👋 Welcome to my profile
+
+- 🔭 A motivated software developer with 14 years of IT experience, I am curious and proactive with a passion for building quality software and creative solutions. I have been working for 13 years, being 8 years in PHP, HTML, Javascript, and the other 5 years to date with Java, Angular 2,4,5 and 7, oriented to agile methodologies. I venture to say that I am a fast learner and love to experiment and absorb new technologies. In my free time I enjoy walking with my chow chow, reading books, watching series and getting close to nature and friends.
 
 <!--
 **JulianCambraia/JulianCambraia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
