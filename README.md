@@ -1,5 +1,7 @@
 ### Julian Fernando de Almeida Cambraia 
-[![texto alt](https://img.icons8.com/color/32/000000/linkedin-circled.png)](https://www.linkedin.com/in/julian-fernando-602a5739)
+[![texto alt](https://img.icons8.com/color/32/000000/linkedin-circled.png)](https://www.linkedin.com/in/julian-fernando-602a5739) [![texto alt](https://img.icons8.com/color/32/000000/gmail.png)](https://www.gmail.com)
+
+
 👋 Welcome to my profile
 
 - 🔭 I’m currently working on Java 8, Spring Boot, Microservices, Angular 2,5,7x, Hibernate, JPA...
