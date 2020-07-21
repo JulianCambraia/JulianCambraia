@@ -1,4 +1,5 @@
 ### Julian Fernando de Almeida Cambraia 
+[![texto alt](https://img.icons8.com/color/48/000000/linkedin-circled.png)](https://www.linkedin.com/in/julian-fernando-602a5739)
 
 👋 Welcome to my profile
 
