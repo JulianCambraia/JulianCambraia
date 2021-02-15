@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Julian Cambraia Status](https://github-readme-stats.vercel.app/api?username=julianCambraia&show_icons=true&theme=radical)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=julianCambraia&show_icons=true&theme=radical)](https://github.com/julianCambraia/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=julianCambraia&layout=compact&theme=radical)](https://github.com/julianCambraia/github-readme-stats)
