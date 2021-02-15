@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/julianCambraia/github-readme-stats">
-  <img align="center" src="[![Julian Cambraia GitHub stats]https://github-readme-stats.vercel.app/api/pin/?username=julianCambraia&repo=github-readme-stats]" />
+  [![Julian Cambraia GitHub stats]<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=julianCambraia&repo=github-readme-stats" />]
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=julianCambraia&repo=convoychat" />
