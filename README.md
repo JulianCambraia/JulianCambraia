@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Julian Cambraia Status](https://github-readme-stats.vercel.app/api?username=julianCambraia&show_icons=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=juliancambraia&layout=compact)](https://github.com/julianCambraia/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=julianCambraia&layout=compact)](https://github.com/julianCambraia/github-readme-stats)
 [![JulianCambraia wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=julianCambraia)](https://github.com/julianCambraia/github-readme-stats)
