@@ -27,6 +27,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianCambraia&show_icons=true&theme=radical)](https://github.com/julianCambraia/github-readme-stats)
-![Julian Cambraia Status](https://github-readme-stats.vercel.app/api?username=julianCambraia&show_icons=true&theme=radical)
+[![Julian Cambraia GitHub stats](https://github-readme-stats.vercel.app/api?username=julianCambraia&show_icons=true&theme=radical)](https://github.com/julianCambraia/github-readme-stats)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=julianCambraia&layout=default&theme=radical)](https://github.com/julianCambraia/github-readme-stats)
