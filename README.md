@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Julian Cambraia Status](https://github-readme-stats.vercel.app/api?username=julianCambraia&show_icons=true)
+![Julian Cambraia Status](https://github-readme-stats.vercel.app/api?username=julianCambraia&show_icons=true&theme=radical)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=julianCambraia&layout=compact)](https://github.com/julianCambraia/github-readme-stats)
 [![Julian Cambraia wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=julianCambraia)](https://github.com/julianCambraia/github-readme-stats)
