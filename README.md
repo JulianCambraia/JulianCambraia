@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 -->
 ## H2 My GitHub Contribution Stats
 
-[![Julian Cambraia GitHub stats](https://github-readme-stats.vercel.app/api?username=julianCambraia&hide=contribs&layout=compact&show_icons=true&theme=merko)](https://github.com/julianCambraia/github-readme-stats)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=julianCambraia&layout=compact&theme=merko)](https://github.com/julianCambraia/github-readme-stats)
+[![Julian Cambraia GitHub stats](https://github-readme-stats.vercel.app/api?username=julianCambraia&hide=contribs&layout=compact&show_icons=true&theme=dark)](https://github.com/julianCambraia/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=julianCambraia&layout=compact&theme=dark)](https://github.com/julianCambraia/github-readme-stats)
 
