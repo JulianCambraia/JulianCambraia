@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## H2 My GitHub Contribution Stats
+## My GitHub Contribution Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=julianCambraia&hide=contribs&layout=compact&show_icons=true&theme=dark" />
 </a>
