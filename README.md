@@ -1,6 +1,7 @@
 ### Julian Fernando de Almeida Cambraia
 [![Linkedin: julianCambraia](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julian-fernando-602a5739/)](https://www.linkedin.com/in/julian-fernando-602a5739/)
 [![gmail: julianCambraia](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)
+[![GitHub-100000: julianCambraia](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
 
 👋 Welcome to my profile
 
