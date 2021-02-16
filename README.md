@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## H2 My GitHub Contribution Stats
-
-[![Julian Cambraia GitHub stats](https://github-readme-stats.vercel.app/api?username=julianCambraia&hide=contribs&layout=compact&show_icons=true&theme=dark)](https://github.com/julianCambraia/github-readme-stats)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=julianCambraia&layout=compact&theme=dark)](https://github.com/julianCambraia/github-readme-stats)
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=julianCambraia&hide=contribs&layout=compact&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianCambraia&layout=compact&theme=dark" />
+</a>
